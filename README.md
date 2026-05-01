@@ -97,21 +97,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JankiMandviya&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="170">
-  
   <img src="https://streak-stats.demolab.com?user=JankiMandviya&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JankiMandviya&layout=compact&theme=tokyonight&hide_border=true&v=2">
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JankiMandviya&theme=tokyo-night&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JankiMandviya&theme=tokyo-night&hide_border=true&area=true">
 </p>
 
 ---
